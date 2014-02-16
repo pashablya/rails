@@ -58,5 +58,5 @@ Click::Application.routes.draw do
   #     resources :products
   #   end
 
-root :to => 'users#index'
+root :to => 'posts#index'
 end
